@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Aptos-Bold.ttf",
+      "sha1": "dfdd907ccc1b9384670da8afb2e3e7c80f406ff0"
+    },
+    {
+      "path": "assets/fonts/Aptos-Regular.ttf",
+      "sha1": "a52fbbf47ceb6600c8f7a67dca6a36ef3428de9a"
+    }
+  ]
+}

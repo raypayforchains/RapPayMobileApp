@@ -4,11 +4,13 @@ buildscript {
         minSdkVersion = 23
         compileSdkVersion = 34
         targetSdkVersion = 34
-        ndkVersion = "26.1.10909125"
+        ndkVersion = "24.0.8215888"
         kotlinVersion = "1.9.24"
     }
     repositories {
         google()
+        maven { url "https://jitpack.io" }
+        maven { url "https://maven.google.com" }
         mavenCentral()
     }
     dependencies {
